@@ -12,3 +12,8 @@ Pandas*
  Requests tem como objetivo "acessar" as URL como uma requisição
  BeautifulSoup pegara elementos das paginas do site e com isso teremos os "dados" do site
  Pandas nesse contexto tem como objetivo tranformar os dados coletados em CSV.
+
+Instalação das bibliotecas:
+pip install requests
+pip install pandas
+pip install beautifulsoup4
